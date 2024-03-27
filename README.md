@@ -29,11 +29,3 @@ Volg deze eenvoudige stappen om het spel lokaal te starten:
     ```bash
     npm run dev
     ```
-
-## Terminal Screenshot 
-
-![Terminal Screenshot](./image.png)
-
-## Gameplay Screenshot
-
-![Gameplay Screenshot](./gameplay.png)
