@@ -1,8 +1,3 @@
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
-
-![](https://github.com/reveng007/C2_Server/blob/main/images/banner.png?raw=true)
-
 # ***C2 Server***
 
 ## So, What the heck is a C2 Server and what it's gonna do ?
@@ -150,20 +145,7 @@ https://user-images.githubusercontent.com/61424547/118291285-6dd1c680-b4a5-11eb-
 Hey, why would I show you all my passwords?? :stuck_out_tongue_winking_eye:
 Check this out by yourself...
 
-## Links that helped me to make chrome browser password extractor:
 
->- [null-byte](https://null-byte.wonderhowto.com/forum/extract-passwords-password-extraction-with-passgetter-0339053/)
->- [medium-base64](https://medium.com/swlh/powering-the-internet-with-base64-d823ec5df747)
->- [wiki-DPAPI](https://en.wikipedia.org/wiki/Data_Protection_API)
->- [win32crypt](https://yiyibooks.cn/__src__/meikunyuan6/pywin32/pywin32/PyWin32/win32crypt.html)
->- [microsoft](https://docs.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata?redirectedfrom=MSDN)
->- [stackoverflow](https://stackoverflow.com/questions/61099492/chrome-80-password-file-decryption-in-python)
->- [stackexchange](https://crypto.stackexchange.com/questions/78095/iv-generation-best-practice-for-aes-256-cbc#:~:text=1%20Answer&text=answer%20was%20accepted%E2%80%A6-,I%20saw%20some%20SWIFT%20code%20that%20generates%20IV%20for%20AES,zA%2DZ0%2D9%20space.)
->- [google](https://cloud.google.com/security/encryption-at-rest/default-encryption)
->- [superuser](https://superuser.com/questions/146742/how-does-google-chrome-store-passwords#:~:text=The%20passwords%20are%20encrypted%20and,API%20function%20for%20encrypting%20data)
->- [tutorialspoint](https://www.tutorialspoint.com/python_data_access/python_sqlite_cursor_object.htm)
 
-## Author: Soumyanil Biswas
-[![](https://img.shields.io/badge/Twitter-@reveng007-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/reveng007)
-[![](https://img.shields.io/badge/LinkedIn-@SoumyanilBiswas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyanil-biswas/)
-[![](https://img.shields.io/badge/Github-@reveng007-0077B5?style=flat-square&logo=github&logoColor=black)](https://github.com/reveng007/)
+## Author: vighneshx
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
