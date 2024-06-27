@@ -74,11 +74,13 @@ You can also use other commands related to networking, etc for linux as well as 
 ------------------------------------------------------------------------------------------
 ```
 ## To test this C2 Server:
+
 Clone the repository:
 ```
 $ git clone https://github.com/reveng007/C2_Server.git
 ```
 #### Install the required python dependencies on both attacker and victim machines:
+
 #### For server machine:
 ```
 $ pip install -r srvr_requirement.txt
