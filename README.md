@@ -138,7 +138,10 @@ In this way the server lags...
 
 ### password spoofing portion:
 
-https://user-images.githubusercontent.com/61424547/118291285-6dd1c680-b4a5-11eb-81ff-f4ead5d99798.mp4
+https://github.com/vighneshx/C2-Server/assets/96537491/6cde3c3a-fa4a-4afc-b749-7c98799fd7f6
+
+
+
 
 ---
 Hey, why would I show you all my passwords?? :stuck_out_tongue_winking_eye:
